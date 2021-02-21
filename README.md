@@ -1,3 +1,4 @@
+# Refer the below points in order to exceute...
 # Change the Feature file path name accordingly in MyTestRunner class
 # Run as Maven
 # For Result file --> Go to target folder under that MyReports
